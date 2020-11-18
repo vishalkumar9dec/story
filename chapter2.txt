@@ -1,1 +1,2 @@
 chapter2
+In this we are learning about git branches
